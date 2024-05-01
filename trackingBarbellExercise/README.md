@@ -1,3 +1,1 @@
-## Data Science Project Template
-
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+This deep learning project can identify different barbell exercises and keep track of how many reps you do. It uses data from motion sensors like accelerometers and gyroscopes. The idea came from Dave Ebbelaar's work "Exploring the Possibilities of Context-Aware Applications for Strength Training"
